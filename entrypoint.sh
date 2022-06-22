@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=baa08e6b-3d8f-6007-79a4-66ecd756b50a
-WSPATH=/apk
+UUID=f6522fed-222c-c3db-f3cf-8d66cf64894f
+WSPATH=/app
 PORT=80
 
 
